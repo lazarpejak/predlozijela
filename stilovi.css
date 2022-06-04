@@ -1,0 +1,100 @@
+body {
+  
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    background-color: #EED6A7;
+
+  }
+  header {
+    height: 85px;
+    font-family: 'lobster', cursive;
+    background-color: #BD595F;
+  }
+  
+  
+  .naslov {
+    border: 0px;
+    margin: 0px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 2em;
+    color: black;
+    font-family: 'Bad Script', cursive;
+  }
+  nav {
+    float: left;
+    width: 15%;
+    position: fixed;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    width: 95%;
+    margin: 0px;
+    padding: 0px;
+    
+  }
+  nav ul li {
+    font-size:medium;
+    margin: 20px;
+    padding: 15px;
+    background:  #8AB5A7;
+    text-align:center;
+    
+  }
+  
+  
+  
+  nav a {
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #BD595F;
+  }
+  section {
+    line-height: 1.5;
+    float: right;
+    width: 85%;
+  }
+  
+  section h2 {
+    margin-bottom: 5px;
+  }
+  
+  section p {
+    margin-top: 0px;
+    padding-top: 0px
+  }
+  footer {
+    height: 40px;
+    width: 100%;
+    background-color: #BD595F;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    
+  }
+  
+  footer p {
+    font: black;
+    margin: 0px;
+    padding-top: 8px;
+    font-family: 'Bad Script', cursive;
+  }
+  h2 {
+    font-family: 'Bad Script', cursive;
+    color: #BD595F;
+    text-decoration: underline;
+  }
+  h3 {
+    color: #BD595F;
+  }
+  .podaci {
+    font-family: 'Bad Script', cursive;
+    font-size: 30px;
+    margin-top: 20px;
+  }
